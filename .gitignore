@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Large audio files (optional - uncomment if you want to exclude them)
+# *.mp3
+# *.wav
+# *.m4a
+# *.flac
+
+# Transcription outputs (optional - uncomment if you don't want to track them)
+# *.txt
